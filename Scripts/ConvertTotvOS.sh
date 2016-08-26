@@ -27,8 +27,8 @@ git mv AWSiOSSDKv2.xcodeproj AWStvOSSDKv2.xcodeproj
 cd AWStvOSSDKv2.xcodeproj
 
 sed -i '' 's/amazonaws.sdk.ios/amazonaws.sdk.tvos/g' project.pbxproj
-
 sed -i '' 's/IPHONEOS_DEPLOYMENT_TARGET = 8.0;/TVOS_DEPLOYMENT_TARGET = 9.0; TARGETED_DEVICE_FAMILY = 3;SDKROOT = appletvos;/g' project.pbxproj
+sed -i '' 's/iphoneos/appletvos/g' project.pbxproj
 
 sed -i '' 's/AWSiOSSDKv2/AWStvOSSDKv2/g' ./project.xcworkspace/contents.xcworkspacedata ./xcshareddata/xcschemes/*
 
