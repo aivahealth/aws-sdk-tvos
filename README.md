@@ -1,6 +1,6 @@
 #AWS Mobile SDK retargetted for tvOS
 
-This repository is a fork of aws-sdk-ios that has been retargeted to build for tvOS. All the targets have been changed to be tvOS rather than iOS. No furhter changes have been made, some bits might work, others not. No testing has been performed, use at your own risk.
+This repository is a fork of aws-sdk-ios that has been retargeted to build for tvOS. All the targets have been changed to be tvOS rather than iOS. No further changes have been made, some bits might work, others not. No testing has been performed, use at your own risk.
 
 The script to do the conversion can be found in Scripts/ConvertTotvOS.sh
 
