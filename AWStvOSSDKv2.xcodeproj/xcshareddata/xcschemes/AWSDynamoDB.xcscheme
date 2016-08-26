@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE4DFA461C6D635C00376441"
-               BuildableName = "Documentation"
-               BlueprintName = "Documentation"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE9DE56F1C6A763E0060793F"
+               BuildableName = "AWSDynamoDB.framework"
+               BlueprintName = "AWSDynamoDB"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CE9DE5781C6A763E0060793F"
+               BuildableName = "AWSDynamoDBTests.xctest"
+               BlueprintName = "AWSDynamoDBTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CE5604261C6BC8EE00B4E00B"
+               BuildableName = "AWSDynamoDBUnitTests.xctest"
+               BlueprintName = "AWSDynamoDBUnitTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "CE9DE56F1C6A763E0060793F"
+            BuildableName = "AWSDynamoDB.framework"
+            BlueprintName = "AWSDynamoDB"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,10 +74,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE4DFA461C6D635C00376441"
-            BuildableName = "Documentation"
-            BlueprintName = "Documentation"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE56F1C6A763E0060793F"
+            BuildableName = "AWSDynamoDB.framework"
+            BlueprintName = "AWSDynamoDB"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +92,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE4DFA461C6D635C00376441"
-            BuildableName = "Documentation"
-            BlueprintName = "Documentation"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE56F1C6A763E0060793F"
+            BuildableName = "AWSDynamoDB.framework"
+            BlueprintName = "AWSDynamoDB"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

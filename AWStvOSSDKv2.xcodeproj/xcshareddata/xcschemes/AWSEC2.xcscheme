@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9DEA8C1C6A7F460060793F"
-               BuildableName = "AWSSQS.framework"
-               BlueprintName = "AWSSQS"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE9DE5AB1C6A77880060793F"
+               BuildableName = "AWSEC2.framework"
+               BlueprintName = "AWSEC2"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9DEA951C6A7F460060793F"
-               BuildableName = "AWSSQSTests.xctest"
-               BlueprintName = "AWSSQSTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE9DE5B41C6A77890060793F"
+               BuildableName = "AWSEC2Tests.xctest"
+               BlueprintName = "AWSEC2Tests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE5604DA1C6BC9B200B4E00B"
-               BuildableName = "AWSSQSUnitTests.xctest"
-               BlueprintName = "AWSSQSUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE5604351C6BC8FE00B4E00B"
+               BuildableName = "AWSEC2UnitTests.xctest"
+               BlueprintName = "AWSEC2UnitTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DEA8C1C6A7F460060793F"
-            BuildableName = "AWSSQS.framework"
-            BlueprintName = "AWSSQS"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE5AB1C6A77880060793F"
+            BuildableName = "AWSEC2.framework"
+            BlueprintName = "AWSEC2"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DEA8C1C6A7F460060793F"
-            BuildableName = "AWSSQS.framework"
-            BlueprintName = "AWSSQS"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE5AB1C6A77880060793F"
+            BuildableName = "AWSEC2.framework"
+            BlueprintName = "AWSEC2"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -92,10 +92,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DEA8C1C6A7F460060793F"
-            BuildableName = "AWSSQS.framework"
-            BlueprintName = "AWSSQS"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE5AB1C6A77880060793F"
+            BuildableName = "AWSEC2.framework"
+            BlueprintName = "AWSEC2"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

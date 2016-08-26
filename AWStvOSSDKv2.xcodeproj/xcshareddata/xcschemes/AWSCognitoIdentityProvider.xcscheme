@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9DE6D81C6A79DF0060793F"
-               BuildableName = "AWSLambda.framework"
-               BlueprintName = "AWSLambda"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CEA316971C93A0EA002A9F58"
+               BuildableName = "AWSCognitoIdentityProvider.framework"
+               BlueprintName = "AWSCognitoIdentityProvider"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9DE6E11C6A79DF0060793F"
-               BuildableName = "AWSLambdaTests.xctest"
-               BlueprintName = "AWSLambdaTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CEA316A01C93A0EA002A9F58"
+               BuildableName = "AWSCognitoIdentityProviderTests.xctest"
+               BlueprintName = "AWSCognitoIdentityProviderTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE5604711C6BC93C00B4E00B"
-               BuildableName = "AWSLambdaUnitTests.xctest"
-               BlueprintName = "AWSLambdaUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CEA316BF1C93A415002A9F58"
+               BuildableName = "AWSCognitoIdentityProviderUnitTests.xctest"
+               BlueprintName = "AWSCognitoIdentityProviderUnitTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DE6D81C6A79DF0060793F"
-            BuildableName = "AWSLambda.framework"
-            BlueprintName = "AWSLambda"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CEA316971C93A0EA002A9F58"
+            BuildableName = "AWSCognitoIdentityProvider.framework"
+            BlueprintName = "AWSCognitoIdentityProvider"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DE6D81C6A79DF0060793F"
-            BuildableName = "AWSLambda.framework"
-            BlueprintName = "AWSLambda"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CEA316971C93A0EA002A9F58"
+            BuildableName = "AWSCognitoIdentityProvider.framework"
+            BlueprintName = "AWSCognitoIdentityProvider"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -92,10 +92,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DE6D81C6A79DF0060793F"
-            BuildableName = "AWSLambda.framework"
-            BlueprintName = "AWSLambda"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CEA316971C93A0EA002A9F58"
+            BuildableName = "AWSCognitoIdentityProvider.framework"
+            BlueprintName = "AWSCognitoIdentityProvider"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

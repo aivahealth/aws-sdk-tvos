@@ -17,7 +17,7 @@
                BlueprintIdentifier = "CEEF67961CEF8E37000110B0"
                BuildableName = "AWSAllTests"
                BlueprintName = "AWSAllTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -36,7 +36,7 @@
                BlueprintIdentifier = "CE9DEB261C6A81160060793F"
                BuildableName = "AWSAPIGatewayTests.xctest"
                BlueprintName = "AWSAPIGatewayTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -46,7 +46,7 @@
                BlueprintIdentifier = "CE5603E81C6BC86C00B4E00B"
                BuildableName = "AWSAPIGatewayUnitTests.xctest"
                BlueprintName = "AWSAPIGatewayUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -56,7 +56,7 @@
                BlueprintIdentifier = "CE9DE53C1C6A72960060793F"
                BuildableName = "AWSAutoScalingTests.xctest"
                BlueprintName = "AWSAutoScalingTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -66,7 +66,7 @@
                BlueprintIdentifier = "CE5603F91C6BC8BC00B4E00B"
                BuildableName = "AWSAutoScalingUnitTests.xctest"
                BlueprintName = "AWSAutoScalingUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -76,7 +76,7 @@
                BlueprintIdentifier = "CE9DEB681C6A9F3D0060793F"
                BuildableName = "AWSCloudWatchTests.xctest"
                BlueprintName = "AWSCloudWatchTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -86,7 +86,7 @@
                BlueprintIdentifier = "CE5604081C6BC8CE00B4E00B"
                BuildableName = "AWSCloudWatchUnitTests.xctest"
                BlueprintName = "AWSCloudWatchUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -96,7 +96,7 @@
                BlueprintIdentifier = "CEA316A01C93A0EA002A9F58"
                BuildableName = "AWSCognitoIdentityProviderTests.xctest"
                BlueprintName = "AWSCognitoIdentityProviderTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -106,7 +106,7 @@
                BlueprintIdentifier = "CEA316BF1C93A415002A9F58"
                BuildableName = "AWSCognitoIdentityProviderUnitTests.xctest"
                BlueprintName = "AWSCognitoIdentityProviderUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -116,7 +116,7 @@
                BlueprintIdentifier = "CE9DEAC51C6A7FDF0060793F"
                BuildableName = "AWSCognitoTests.xctest"
                BlueprintName = "AWSCognitoTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -126,7 +126,7 @@
                BlueprintIdentifier = "CE5604171C6BC8DF00B4E00B"
                BuildableName = "AWSCognitoUnitTests.xctest"
                BlueprintName = "AWSCognitoUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -136,7 +136,7 @@
                BlueprintIdentifier = "CE0D41751C6A66E5006B91B5"
                BuildableName = "AWSCoreTests.xctest"
                BlueprintName = "AWSCoreTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -146,7 +146,7 @@
                BlueprintIdentifier = "CE5603D11C6BC74500B4E00B"
                BuildableName = "AWSCoreUnitTests.xctest"
                BlueprintName = "AWSCoreUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -156,7 +156,7 @@
                BlueprintIdentifier = "CE9DE5781C6A763E0060793F"
                BuildableName = "AWSDynamoDBTests.xctest"
                BlueprintName = "AWSDynamoDBTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -166,7 +166,7 @@
                BlueprintIdentifier = "CE5604261C6BC8EE00B4E00B"
                BuildableName = "AWSDynamoDBUnitTests.xctest"
                BlueprintName = "AWSDynamoDBUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -176,7 +176,7 @@
                BlueprintIdentifier = "CE9DE5B41C6A77890060793F"
                BuildableName = "AWSEC2Tests.xctest"
                BlueprintName = "AWSEC2Tests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -186,7 +186,7 @@
                BlueprintIdentifier = "CE5604351C6BC8FE00B4E00B"
                BuildableName = "AWSEC2UnitTests.xctest"
                BlueprintName = "AWSEC2UnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -196,7 +196,7 @@
                BlueprintIdentifier = "CE9DE5E41C6A78200060793F"
                BuildableName = "AWSElasticLoadBalancingTests.xctest"
                BlueprintName = "AWSElasticLoadBalancingTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -206,7 +206,7 @@
                BlueprintIdentifier = "CE5604441C6BC90C00B4E00B"
                BuildableName = "AWSElasticLoadBalancingUnitTests.xctest"
                BlueprintName = "AWSElasticLoadBalancingUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -216,7 +216,7 @@
                BlueprintIdentifier = "CE9DE6141C6A78A70060793F"
                BuildableName = "AWSIoTTests.xctest"
                BlueprintName = "AWSIoTTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -226,7 +226,7 @@
                BlueprintIdentifier = "CE5604531C6BC91D00B4E00B"
                BuildableName = "AWSIoTUnitTests.xctest"
                BlueprintName = "AWSIoTUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -236,7 +236,7 @@
                BlueprintIdentifier = "CE9DE68F1C6A79470060793F"
                BuildableName = "AWSKinesisTests.xctest"
                BlueprintName = "AWSKinesisTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -246,7 +246,7 @@
                BlueprintIdentifier = "CE5604621C6BC92E00B4E00B"
                BuildableName = "AWSKinesisUnitTests.xctest"
                BlueprintName = "AWSKinesisUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -256,7 +256,7 @@
                BlueprintIdentifier = "CE9DE6E11C6A79DF0060793F"
                BuildableName = "AWSLambdaTests.xctest"
                BlueprintName = "AWSLambdaTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -266,7 +266,7 @@
                BlueprintIdentifier = "CE5604711C6BC93C00B4E00B"
                BuildableName = "AWSLambdaUnitTests.xctest"
                BlueprintName = "AWSLambdaUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -276,7 +276,7 @@
                BlueprintIdentifier = "CE9DE7171C6A7A690060793F"
                BuildableName = "AWSMachineLearningTests.xctest"
                BlueprintName = "AWSMachineLearningTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -286,7 +286,7 @@
                BlueprintIdentifier = "CE5604801C6BC94D00B4E00B"
                BuildableName = "AWSMachineLearningUnitTests.xctest"
                BlueprintName = "AWSMachineLearningUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -296,7 +296,7 @@
                BlueprintIdentifier = "CE9E501A1C72C19800B60FD7"
                BuildableName = "AWSMobileAnalyticsLegacyTests.xctest"
                BlueprintName = "AWSMobileAnalyticsLegacyTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -306,7 +306,7 @@
                BlueprintIdentifier = "CE9DE7461C6A7AE40060793F"
                BuildableName = "AWSMobileAnalyticsTests.xctest"
                BlueprintName = "AWSMobileAnalyticsTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -316,7 +316,7 @@
                BlueprintIdentifier = "CE56048F1C6BC96500B4E00B"
                BuildableName = "AWSMobileAnalyticsUnitTests.xctest"
                BlueprintName = "AWSMobileAnalyticsUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -326,7 +326,7 @@
                BlueprintIdentifier = "CE9DE9C51C6A7C2E0060793F"
                BuildableName = "AWSS3Tests.xctest"
                BlueprintName = "AWSS3Tests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -336,7 +336,7 @@
                BlueprintIdentifier = "CE56049E1C6BC97600B4E00B"
                BuildableName = "AWSS3UnitTests.xctest"
                BlueprintName = "AWSS3UnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -346,7 +346,7 @@
                BlueprintIdentifier = "CE9DEA051C6A7E000060793F"
                BuildableName = "AWSSESTests.xctest"
                BlueprintName = "AWSSESTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -356,7 +356,7 @@
                BlueprintIdentifier = "CE5604AD1C6BC98800B4E00B"
                BuildableName = "AWSSESUnitTests.xctest"
                BlueprintName = "AWSSESUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -366,7 +366,7 @@
                BlueprintIdentifier = "CE9DEA651C6A7EE40060793F"
                BuildableName = "AWSSNSTests.xctest"
                BlueprintName = "AWSSNSTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -376,7 +376,7 @@
                BlueprintIdentifier = "CE5604CB1C6BC9A200B4E00B"
                BuildableName = "AWSSNSUnitTests.xctest"
                BlueprintName = "AWSSNSUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -386,7 +386,7 @@
                BlueprintIdentifier = "CE9DEA951C6A7F460060793F"
                BuildableName = "AWSSQSTests.xctest"
                BlueprintName = "AWSSQSTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -396,7 +396,7 @@
                BlueprintIdentifier = "CE5604DA1C6BC9B200B4E00B"
                BuildableName = "AWSSQSUnitTests.xctest"
                BlueprintName = "AWSSQSUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -406,7 +406,7 @@
                BlueprintIdentifier = "CE9DEA351C6A7E710060793F"
                BuildableName = "AWSSimpleDBTests.xctest"
                BlueprintName = "AWSSimpleDBTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -416,7 +416,7 @@
                BlueprintIdentifier = "CE5604BC1C6BC99500B4E00B"
                BuildableName = "AWSSimpleDBUnitTests.xctest"
                BlueprintName = "AWSSimpleDBUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -426,7 +426,7 @@
             BlueprintIdentifier = "CEEF67961CEF8E37000110B0"
             BuildableName = "AWSAllTests"
             BlueprintName = "AWSAllTests"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -448,7 +448,7 @@
             BlueprintIdentifier = "CEEF67961CEF8E37000110B0"
             BuildableName = "AWSAllTests"
             BlueprintName = "AWSAllTests"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -466,7 +466,7 @@
             BlueprintIdentifier = "CEEF67961CEF8E37000110B0"
             BuildableName = "AWSAllTests"
             BlueprintName = "AWSAllTests"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

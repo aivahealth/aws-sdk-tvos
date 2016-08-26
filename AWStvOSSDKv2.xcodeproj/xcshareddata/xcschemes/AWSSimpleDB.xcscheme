@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9DE70E1C6A7A680060793F"
-               BuildableName = "AWSMachineLearning.framework"
-               BlueprintName = "AWSMachineLearning"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE9DEA2C1C6A7E710060793F"
+               BuildableName = "AWSSimpleDB.framework"
+               BlueprintName = "AWSSimpleDB"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9DE7171C6A7A690060793F"
-               BuildableName = "AWSMachineLearningTests.xctest"
-               BlueprintName = "AWSMachineLearningTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE9DEA351C6A7E710060793F"
+               BuildableName = "AWSSimpleDBTests.xctest"
+               BlueprintName = "AWSSimpleDBTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE5604801C6BC94D00B4E00B"
-               BuildableName = "AWSMachineLearningUnitTests.xctest"
-               BlueprintName = "AWSMachineLearningUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE5604BC1C6BC99500B4E00B"
+               BuildableName = "AWSSimpleDBUnitTests.xctest"
+               BlueprintName = "AWSSimpleDBUnitTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DE70E1C6A7A680060793F"
-            BuildableName = "AWSMachineLearning.framework"
-            BlueprintName = "AWSMachineLearning"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DEA2C1C6A7E710060793F"
+            BuildableName = "AWSSimpleDB.framework"
+            BlueprintName = "AWSSimpleDB"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DE70E1C6A7A680060793F"
-            BuildableName = "AWSMachineLearning.framework"
-            BlueprintName = "AWSMachineLearning"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DEA2C1C6A7E710060793F"
+            BuildableName = "AWSSimpleDB.framework"
+            BlueprintName = "AWSSimpleDB"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -92,10 +92,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DE70E1C6A7A680060793F"
-            BuildableName = "AWSMachineLearning.framework"
-            BlueprintName = "AWSMachineLearning"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DEA2C1C6A7E710060793F"
+            BuildableName = "AWSSimpleDB.framework"
+            BlueprintName = "AWSSimpleDB"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

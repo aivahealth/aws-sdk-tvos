@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9DEA5C1C6A7EE30060793F"
-               BuildableName = "AWSSNS.framework"
-               BlueprintName = "AWSSNS"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE9DE70E1C6A7A680060793F"
+               BuildableName = "AWSMachineLearning.framework"
+               BlueprintName = "AWSMachineLearning"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9DEA651C6A7EE40060793F"
-               BuildableName = "AWSSNSTests.xctest"
-               BlueprintName = "AWSSNSTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE9DE7171C6A7A690060793F"
+               BuildableName = "AWSMachineLearningTests.xctest"
+               BlueprintName = "AWSMachineLearningTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE5604CB1C6BC9A200B4E00B"
-               BuildableName = "AWSSNSUnitTests.xctest"
-               BlueprintName = "AWSSNSUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE5604801C6BC94D00B4E00B"
+               BuildableName = "AWSMachineLearningUnitTests.xctest"
+               BlueprintName = "AWSMachineLearningUnitTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DEA5C1C6A7EE30060793F"
-            BuildableName = "AWSSNS.framework"
-            BlueprintName = "AWSSNS"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE70E1C6A7A680060793F"
+            BuildableName = "AWSMachineLearning.framework"
+            BlueprintName = "AWSMachineLearning"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DEA5C1C6A7EE30060793F"
-            BuildableName = "AWSSNS.framework"
-            BlueprintName = "AWSSNS"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE70E1C6A7A680060793F"
+            BuildableName = "AWSMachineLearning.framework"
+            BlueprintName = "AWSMachineLearning"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -92,10 +92,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DEA5C1C6A7EE30060793F"
-            BuildableName = "AWSSNS.framework"
-            BlueprintName = "AWSSNS"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE70E1C6A7A680060793F"
+            BuildableName = "AWSMachineLearning.framework"
+            BlueprintName = "AWSMachineLearning"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

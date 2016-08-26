@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9DE5331C6A72960060793F"
-               BuildableName = "AWSAutoScaling.framework"
-               BlueprintName = "AWSAutoScaling"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE9DE60B1C6A78A60060793F"
+               BuildableName = "AWSIoT.framework"
+               BlueprintName = "AWSIoT"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9DE53C1C6A72960060793F"
-               BuildableName = "AWSAutoScalingTests.xctest"
-               BlueprintName = "AWSAutoScalingTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE9DE6141C6A78A70060793F"
+               BuildableName = "AWSIoTTests.xctest"
+               BlueprintName = "AWSIoTTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE5603F91C6BC8BC00B4E00B"
-               BuildableName = "AWSAutoScalingUnitTests.xctest"
-               BlueprintName = "AWSAutoScalingUnitTests"
-               ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+               BlueprintIdentifier = "CE5604531C6BC91D00B4E00B"
+               BuildableName = "AWSIoTUnitTests.xctest"
+               BlueprintName = "AWSIoTUnitTests"
+               ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DE5331C6A72960060793F"
-            BuildableName = "AWSAutoScaling.framework"
-            BlueprintName = "AWSAutoScaling"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE60B1C6A78A60060793F"
+            BuildableName = "AWSIoT.framework"
+            BlueprintName = "AWSIoT"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DE5331C6A72960060793F"
-            BuildableName = "AWSAutoScaling.framework"
-            BlueprintName = "AWSAutoScaling"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE60B1C6A78A60060793F"
+            BuildableName = "AWSIoT.framework"
+            BlueprintName = "AWSIoT"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -92,10 +92,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9DE5331C6A72960060793F"
-            BuildableName = "AWSAutoScaling.framework"
-            BlueprintName = "AWSAutoScaling"
-            ReferencedContainer = "container:AWSiOSSDKv2.xcodeproj">
+            BlueprintIdentifier = "CE9DE60B1C6A78A60060793F"
+            BuildableName = "AWSIoT.framework"
+            BlueprintName = "AWSIoT"
+            ReferencedContainer = "container:AWStvOSSDKv2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
